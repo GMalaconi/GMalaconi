@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 You can reach me on Twitter @BrianMalaconi.
 
-- I'm also interested in topis such as Chemistry and Neurology.
+- I'm also interested in topis such as Chemistry and Physics.
