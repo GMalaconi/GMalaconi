@@ -1,3 +1,2 @@
-Hello, I’m @GMalaconi!
-I’m interested in Software Development and Cybersecurity.
-I’m looking to collaborate on open-source projects.
+Hello, I’m Gabriel Malaconi!
+I’m interested in building meaningful and useful computer programs.
